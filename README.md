@@ -2,7 +2,7 @@
 
 Hello!
 
-This is a console version of popular game [Magic Ball](https://en.wikipedia.org/wiki/Magic_8-Ball).
+This is the console version of the popular game [Magic Ball](https://en.wikipedia.org/wiki/Magic_8-Ball).
 Made in Ruby 🔥
 
 ## How to use
